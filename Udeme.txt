@@ -1,4 +1,5 @@
-working diretory
+
+orking diretory
 	-	todos os nossos arquivos
 	- 	working tree
 Stage area
